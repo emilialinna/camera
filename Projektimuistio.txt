@@ -1,5 +1,0 @@
-**Projektimuistio**
-
-Tämän projektin tavoitteena on tehdä vanhasta puhelimesta kotiin valvontakamera koiran yksinolojen seuraamista varten ja koteloida kamera huomaamaattomaksi.
-
-
