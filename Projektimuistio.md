@@ -34,6 +34,8 @@ Perustellisen taustatyön jälkeen jäljellä oli enää toteutus. Projektissa k
 **Demoaminen**
 
 Tein laitteen testejä parina eri päivänä eri sovelluksilla. Tavoitteena oli saada kuvassa näkymään yksinoloa harjoittelevan koiran tekemiset reaaliaikaisesti toisella laitteella. 
+<img src="kuva.png" width="300">
+<img src="kuva.png" height="200">
 ![image](https://github.com/user-attachments/assets/6ba347b9-6763-4ea4-b3ba-e967fe314b4f)
 
 ![image](https://github.com/user-attachments/assets/03820354-4e97-499f-b50e-dd3d8dfba54e)
