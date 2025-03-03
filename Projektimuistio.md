@@ -46,6 +46,6 @@ Käytin projektissa puhelinta, joka toimi myös alkuperäiseksi tarkoitetussa k�
 
 **Johtopäätökset**
 
-Projekti onnistui erittäin hyvin, enkä näe mitään syytä ostaa uutta valvontakameraa kaupasta vain tällaista tarkoitusta varten, jos kotoa löytyy valmiin jokin laite, jota voi soveltaa käyttöön. Vanhojen laitteiden uudelleen käyttäminen on myös ekologisempaa, mutta myös taloudellisesti kannattavaa. 
+Projekti onnistui erittäin hyvin, enkä näe mitään syytä ostaa uutta valvontakameraa kaupasta vain tällaista tarkoitusta varten, jos kotoa löytyy valmiin jokin laite, jota voi soveltaa käyttöön. Vanhojen laitteiden uudelleen käyttäminen on myös ekologisempaa, mutta myös taloudellisesti kannattavaa. Itseltäni löytyi vain Apple-merkkinen älypuhelin, mutta netin artikkeleiden mukaan myös Android-käyttöjärjestelmiin on saatavilla samat tai vähintäänkin samankaltaiset sovellukset tällaiseen käyttöön. 
 
 
